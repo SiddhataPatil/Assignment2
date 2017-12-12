@@ -6,7 +6,7 @@
 * [x]  I have also uploded the output in the respective .png files
 
 ## Trees
-* [x]  Completed one question feom two checkpoint
+* [x]  Completed one question from two checkpoint
 * [x]  I have uploded working solutions in the respective .cpp files
 
 
