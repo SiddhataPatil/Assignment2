@@ -11,4 +11,4 @@
 
 
 ## Below is the gif showing the completed checkpoints
-<img src='https://github.com/SiddhataPatil/Assignment2/blob/master/Assignment2.gif' width="750" height="550" />
+<img src='https://github.com/SiddhataPatil/Assignment2/blob/master/assignment3.gif' width="750" height="550" />
